@@ -1,0 +1,17 @@
+---
+layout: single
+title:  "Kenalan Yuk !"
+date:   2017-06-10 11:16:18 +0700
+excerpt: "kesuksesan terbesar dalam hidup saya adalah ketika saya membantu orang lain dengan hobi, menyelesaikan masalah yang mereka alami dengan teknologi"
+categories:
+    - blog
+tags :
+    - perkenalan
+---
+
+Hi semuanya, perkenalkan nama saya Ilham Saputrajati biasa di panggil ilham.
+Hobi saya adalah Programming (Build Aplikasi Android & Website), saya menyukai olahraga Juggle & Flair Bartending .
+Saya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi saya tidak ingin kalah dalam hal ini.
+Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO/Founder Startup atau menjadi seorang Full Stack Developer.
+Saya sangat mencintai teknologi, kalau teknologi ini virus mungkin saya sudah hilang sejak SMA.
+Kesuksesan terbesar dalam hidup saya adalah ketika saya membantu orang lain dengan hobi, menyelesaikan masalah yang mereka alami dengan teknologi.
