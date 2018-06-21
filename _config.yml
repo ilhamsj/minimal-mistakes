@@ -17,13 +17,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Blog Ilham Saputrajati"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Ilham Saputrajati"
 description              : &description "Kenang Kenangan dari ilham untuk ilham dimasa depan"
 url                      : https://ilhamsj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ilhamsj/ilhamsj.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : assets/images/profil 2.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,9 +77,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "ilham_df"
 facebook:
-  username               :
+  username               : &facebook "100008240378815"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -92,28 +92,28 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "UA-121184887-1"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
   name             : "Ilham Saputrajati"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Website Developer"
-  location         : "Somewhere"
+  bio              : "Solve Problems with Technology, Android & Website Developer"
+  location         : "Yogyakarta, Indonesia"
   email            :
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  uri              : #"https://ilhamsj.github.io/"
+  home             : "https://ilhamsj.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 100008240378815
   foursquare       :
-  github           :
+  github           : "ilhamsj"
   gitlab           :
   google_plus      :
   keybase          :
@@ -121,11 +121,11 @@ author:
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
-  soundcloud       :
+  soundcloud       : "ilhamsj"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "ilham_df"
   vine             :
   weibo            :
   xing             :
