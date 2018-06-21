@@ -23,7 +23,7 @@ description              : &description "Kenang Kenangan dari ilham untuk ilham 
 url                      : https://ilhamsj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ilhamsj/ilhamsj.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : assets/images/profil 2.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : assets/images/teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Ilham Saputrajati"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/avatar.png"
   bio              : "Solve Problems with Technology, Android & Website Developer"
   location         : "Yogyakarta, Indonesia"
   email            :
