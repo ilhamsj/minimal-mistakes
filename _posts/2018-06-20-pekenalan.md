@@ -14,7 +14,7 @@ Hobi saya
 * Programming
 * Juggle & Flair Bartending .
 
-Saya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi saya tidak ingin kalah dalam hal ini.
-Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO/Founder Startup atau menjadi seorang Full Stack Developer.  
+Saya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.  
+Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO, atau menjadi seorang Full Stack Developer.  
 Saya sangat mencintai teknologi, kalau teknologi ini virus mungkin saya sudah hilang sejak SMA.
-> Kesuksesan terbesar dalam hidup saya adalah ketika saya membantu orang lain dengan hobi, menyelesaikan masalah yang mereka alami dengan teknologi.
+> Kesuksesan terbesar adalah ketika saya bermanfaat untuk orang lain, menyelesaikan masalah yang mereka alami dengan teknologi.

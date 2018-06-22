@@ -4,7 +4,11 @@ permalink: /about/
 title: "About"
 ---
 
-> Kesuksesan terbesar dalam hidup saya adalah ketika saya membantu orang lain dengan hobi, menyelesaikan masalah yang mereka alami dengan teknologi.
+Saya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.  
+Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO, atau menjadi seorang Full Stack Developer.  
+Saya sangat mencintai teknologi, kalau teknologi ini virus mungkin saya sudah hilang sejak SMA.
+> Kesuksesan terbesar adalah ketika saya bermanfaat untuk orang lain, menyelesaikan masalah yang mereka alami dengan teknologi.
+
 
 
 ### Universitas PGRI Yogyakarta  
@@ -13,5 +17,5 @@ Teknik Informatika
 
 <q>Developers, developers, developers&#8230;</q>
 
-<a href="https://wa.me/+6281991358238?text=%2AAssalamualaikum+ilham%2A%0D%0Amy+name+%28your+name%29%0D%0AI+need+your+help+to+build+a+website%2Fandroid+application" class="btn-primary">
+<a href="http://bit.ly/ilhamsaputrajati" class="btn">
 Kirim pesan</a>
