@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Kenalan Yuk !"
-date:   2017-06-10 11:16:18 +0700
+date:   2017-06-20 11:16:18 +0700
 excerpt: "kesuksesan terbesar dalam hidup saya adalah ketika saya membantu orang lain dengan hobi, menyelesaikan masalah yang mereka alami dengan teknologi"
 categories:
     - blog
