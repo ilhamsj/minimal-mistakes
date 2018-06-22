@@ -4,18 +4,19 @@ permalink: /about/
 title: "About"
 ---
 
-Saya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.  
-Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO, atau menjadi seorang Full Stack Developer.  
-Saya sangat mencintai teknologi, kalau teknologi ini virus mungkin saya sudah hilang sejak SMA.
-> Kesuksesan terbesar adalah ketika saya bermanfaat untuk orang lain, menyelesaikan masalah yang mereka alami dengan teknologi.
+> Kesuksesan terbesar dalam hidup saya adalah ketika bermanfaat untuk orang lain, menyelesaikan masalah yang mereka hadapi dengan teknologi.
 
-
+### SMA N 1 PANGGANG
+IPA 2012 - 2014
 
 ### Universitas PGRI Yogyakarta  
 Teknik Informatika
 2015
 
-<q>Developers, developers, developers&#8230;</q>
+### What I Can do for you ?
+Build a Website & Mobile App
 
-<a href="http://bit.ly/ilhamsaputrajati" class="btn">
-Kirim pesan</a>
+
+<a href="http://bit.ly/ilhamsaputrajati" class="btn--succes">Send me a message</a>  
+
+<q>Developers, developers, developers&#8230;</q>
