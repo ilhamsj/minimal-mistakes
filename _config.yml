@@ -97,12 +97,11 @@ analytics:
     tracking_id          : "UA-121184887-1"
     anonymize_ip         : false # true, false (default)
 
-
 # Site Author
 author:
   name             : "Ilham Saputrajati"
   avatar           : "assets/images/avatar.png"
-  bio              : "Solve Problems with Technology"
+  bio              : "Android Developer"
   location         : "Yogyakarta"
   email            :
   uri              : #"https://ilhamsj.github.io/"

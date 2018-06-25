@@ -8,4 +8,9 @@ var store = [{
         "excerpt":"Don’t worry, you don’t have to memorize them. You can look up their definitions by clicking here and searching for them. Believe it or not, professional developers don’t memorize everything – looking up information is a key part of the job! You can look up their definitions in the Vocab...","categories": ["blog"],
         "tags": ["Developer","Developer Tips"],
         "url": "http://localhost:4000/blog/developers-say/",
+        "teaser":"http://localhost:4000/assets/images/teaser.jpg"},{
+        "title": "Logo Universitas PGRI Yogyakarta",
+        "excerpt":"                                                                                                  Silahkan di download Logo Universitas PGRI Yogyakarta.  ","categories": ["blog","logo"],
+        "tags": ["Universitas PGRI Yogyakarta","Logo"],
+        "url": "http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/",
         "teaser":"http://localhost:4000/assets/images/teaser.jpg"}]
