@@ -17,4 +17,7 @@ Hobi saya
 Saya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.  
 Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO, atau menjadi seorang Full Stack Developer.  
 Saya sangat mencintai teknologi, kalau teknologi ini virus mungkin saya sudah hilang sejak SMA.
-> Kesuksesan terbesar adalah ketika saya bermanfaat untuk orang lain, menyelesaikan masalah yang mereka alami dengan teknologi.
+> Kesuksesan terbesar adalah ketika saya bermanfaat untuk orang lain, menyelesaikan masalah yang mereka alami dengan teknologi.  
+
+
+Saat ini saya sedang mengembangkan aplikasi Mobile untuk mengatasi permasalahan kematian dan transplantasi organ tubuh
