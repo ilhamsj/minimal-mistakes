@@ -4,6 +4,11 @@ var store = [{
         "tags": ["perkenalan"],
         "url": "http://localhost:4000/blog/pekenalan/",
         "teaser":"http://localhost:4000/assets/images/teaser.jpg"},{
+        "title": "KKN UPY Kelompok 27 Desa Kesenet ",
+        "excerpt":"KKN UPY ke-XXXIII (33) Kelompok 27 pada tanggal 28 Januari 2019 dengan tema “Peningkatan Program Pemberdayaan Berbasis Budaya Lokal MenujuMasyarakat Mandiri”Terdiri dari 23 Orang dari berbagai program studiLokasi berada di Desa Kesenet Kecamatan Banjarmangu, Banjarnegara ","categories": ["blog"],
+        "tags": ["perkenalan"],
+        "url": "http://localhost:4000/blog/kkn-upy/",
+        "teaser":"http://localhost:4000/assets/images/teaser.jpg"},{
         "title": "Professional Developers don't memorize everything",
         "excerpt":"Don’t worry, you don’t have to memorize them. You can look up their definitions by clicking here and searching for them. Believe it or not, professional developers don’t memorize everything – looking up information is a key part of the job! You can look up their definitions in the Vocab...","categories": ["blog"],
         "tags": ["Developer","Developer Tips"],
