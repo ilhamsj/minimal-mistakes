@@ -18,4 +18,9 @@ var store = [{
         "excerpt":"                                                                                                  Silahkan di download Logo Universitas PGRI Yogyakarta.  ","categories": ["blog","logo"],
         "tags": ["Universitas PGRI Yogyakarta","Logo"],
         "url": "http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/",
+        "teaser":"http://localhost:4000/assets/images/teaser.jpg"},{
+        "title": "Belajar Fashion Biar Keliatan Ganteng",
+        "excerpt":"Selesai KKN semangat buat bangun startup berkurangdan BENER BENER DOWN hal positif yang saya ambil, skill increase di Gitar sama fashion, di post ini saya bakal share ke temen temenwebsite, channel, tips fashionmungkin bisa bermanfaat daripada pusing nyari nya alasan belajar fashion karna liat temen temen pada stylish keren belajar...","categories": ["blog"],
+        "tags": ["Timeline","Documenter"],
+        "url": "http://localhost:4000/blog/belajar-fashion-ootd/",
         "teaser":"http://localhost:4000/assets/images/teaser.jpg"}]
