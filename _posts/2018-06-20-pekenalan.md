@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Kenalan Yuk !"
-date:   2017-06-20 11:16:18 +0700
-excerpt: "kesuksesan terbesar dalam hidup saya adalah ketika saya membantu orang lain dengan hobi, menyelesaikan masalah yang mereka alami dengan teknologi"
+title:  "Ilham Saputra Jati - Solve Problems with technology"
+date:   2018-01-12 11:16:18 +0700
+excerpt: "Kesuksesan terbesar dalam hidup saya adalah ketika mampu menyelesaikan masalah orang lain dengan teknologi"
 categories:
     - blog
 tags :
@@ -13,6 +13,7 @@ Hi semuanya, perkenalkan nama saya Ilham Saputrajati biasa di panggil ilham.
 Hobi saya
 * Programming
 * Juggle & Flair Bartending .
+* Main gitar
 
 Saya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.  
 Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO, atau menjadi seorang Full Stack Developer.  
