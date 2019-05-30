@@ -9,10 +9,8 @@ tags :
     - Tutorial
 ---
 
-Hallo semuanya, kali ini saya bakalan sharing gimana caranya menggunakan smartphone sebagai clicker daripada temen temen beli clicker mending gunain smartphone. 
+Hallo semuanya, kali ini saya bakalan sharing gimana caranya menggunakan smartphone sebagai clicker, daripada temen temen beli clicker mending manfaatin smartphone. 
 
-Cara menyelesaikan :
-Persiapan
 1. Google slide
 1. Install Chrome extension : [Remote for Slides](https://chrome.google.com/webstore/detail/remote-for-slides/pojijacppbhikhkmegdoechbfiiibppi)
 1. Install [Remote for Slides](https://play.google.com/store/apps/details?id=xyz.limhenry.slides.lite) di android
@@ -22,3 +20,5 @@ Persiapan
 1. Buka aplikasi masukkan ID
 1. Connect
 1. Kamu juga bisa nampilin notes dan zoom notes
+
+Masih belum jelas atau nemu masalah ? tulis di kolom komentar ya

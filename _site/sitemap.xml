@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/blog/pekenalan/</loc>
-<lastmod>2017-06-20T11:16:18+07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/kkn-upy/</loc>
-<lastmod>2017-06-20T11:16:18+07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/developers-say/</loc>
-<lastmod>2017-06-22T11:16:18+07:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/</loc>
 <lastmod>2017-06-25T19:09:12+07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/belajar-fashion-ootd/</loc>
-<lastmod>2019-03-27T11:16:18+07:00</lastmod>
+<loc>http://localhost:4000/blog/pekenalan/</loc>
+<lastmod>2018-01-12T11:16:18+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/</loc>
+<lastmod>2019-05-29T11:16:18+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/bank-nama-bayi-terinspirasi-dari-bahasa-pemrograman/</loc>
+<lastmod>2019-05-30T13:00:00+07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>

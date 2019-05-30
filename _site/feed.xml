@@ -1,20 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-29T21:47:13+07:00</updated><id>http://localhost:4000/</id><title type="html">Blog Ilham Saputrajati</title><subtitle>Kenang Kenangan dari ilham untuk ilham dimasa depan</subtitle><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><entry><title type="html">Belajar Fashion Biar Keliatan Ganteng</title><link href="http://localhost:4000/blog/belajar-fashion-ootd/" rel="alternate" type="text/html" title="Belajar Fashion Biar Keliatan Ganteng" /><published>2019-03-27T11:16:18+07:00</published><updated>2019-03-27T11:16:18+07:00</updated><id>http://localhost:4000/blog/belajar-fashion-ootd</id><content type="html" xml:base="http://localhost:4000/blog/belajar-fashion-ootd/">&lt;p&gt;Selesai KKN semangat buat bangun startup berkurang
-dan BENER BENER DOWN&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-30T13:38:13+07:00</updated><id>http://localhost:4000/</id><title type="html">Blog Ilham Saputrajati</title><subtitle>Kenang Kenangan dari ilham untuk ilham dimasa depan</subtitle><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><entry><title type="html">Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools</title><link href="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-dari-bahasa-pemrograman/" rel="alternate" type="text/html" title="Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools" /><published>2019-05-30T13:00:00+07:00</published><updated>2019-05-30T13:00:00+07:00</updated><id>http://localhost:4000/blog/bank-nama-bayi-terinspirasi-dari-bahasa-pemrograman</id><content type="html" xml:base="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-dari-bahasa-pemrograman/">&lt;p&gt;Hi developers, kali ini saya bakalan sharing nama nama bayi yang terinspirasi dari bahasa pemrograman&lt;/p&gt;
 
-&lt;p&gt;hal positif yang saya ambil, skill increase di Gitar sama fashion, di post ini saya bakal share ke temen temen
-website, channel, tips fashion
-mungkin bisa bermanfaat daripada pusing nyari nya&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Bahasa Pemrograman&lt;/th&gt;
+      &lt;th&gt;Nama&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SQL&lt;/td&gt;
+      &lt;td&gt;Ezkiel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Vim&lt;/td&gt;
+      &lt;td&gt;Vim&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Vue&lt;/td&gt;
+      &lt;td&gt;Vue&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sass&lt;/td&gt;
+      &lt;td&gt;Sasa&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;React&lt;/td&gt;
+      &lt;td&gt;Rea&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Swift&lt;/td&gt;
+      &lt;td&gt;swifty&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Js&lt;/td&gt;
+      &lt;td&gt;Jessy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Git&lt;/td&gt;
+      &lt;td&gt;gita&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Laravel&lt;/td&gt;
+      &lt;td&gt;Lara&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Debian&lt;/td&gt;
+      &lt;td&gt;Debi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CSS&lt;/td&gt;
+      &lt;td&gt;Cassy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jekyll&lt;/td&gt;
+      &lt;td&gt;Jackie&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Tutorial" /><summary type="html">Kamu programmer? developers? berikut ini 20 nama nama bayi yang terinspirasi dari bahasa pemrograman</summary></entry><entry><title type="html">Cara menggunakan smartphone sebagai clicker</title><link href="http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/" rel="alternate" type="text/html" title="Cara menggunakan smartphone sebagai clicker" /><published>2019-05-29T11:16:18+07:00</published><updated>2019-05-29T11:16:18+07:00</updated><id>http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker</id><content type="html" xml:base="http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/">&lt;p&gt;Hallo semuanya, kali ini saya bakalan sharing gimana caranya menggunakan smartphone sebagai clicker, daripada temen temen beli clicker mending manfaatin smartphone.&lt;/p&gt;
 
-&lt;p&gt;alasan belajar fashion karna liat temen temen pada stylish keren&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Google slide&lt;/li&gt;
+  &lt;li&gt;Install Chrome extension : &lt;a href=&quot;https://chrome.google.com/webstore/detail/remote-for-slides/pojijacppbhikhkmegdoechbfiiibppi&quot;&gt;Remote for Slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Install &lt;a href=&quot;https://play.google.com/store/apps/details?id=xyz.limhenry.slides.lite&quot;&gt;Remote for Slides&lt;/a&gt; di android&lt;/li&gt;
+  &lt;li&gt;Buka google slide&lt;/li&gt;
+  &lt;li&gt;Pilih present w/ remote&lt;/li&gt;
+  &lt;li&gt;Klik show ID, catat ID&lt;/li&gt;
+  &lt;li&gt;Buka aplikasi masukkan ID&lt;/li&gt;
+  &lt;li&gt;Connect&lt;/li&gt;
+  &lt;li&gt;Kamu juga bisa nampilin notes dan zoom notes&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;belajar style&lt;/p&gt;
+&lt;p&gt;Masih belum jelas atau nemu masalah ? tulis di kolom komentar ya&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Tutorial" /><summary type="html">Kali ini saya bakalan sharing gimana caranya menggunakan smartphone sebagai clicker</summary></entry><entry><title type="html">Ilham Saputra Jati - Solve Problems with technology</title><link href="http://localhost:4000/blog/pekenalan/" rel="alternate" type="text/html" title="Ilham Saputra Jati - Solve Problems with technology" /><published>2018-01-12T11:16:18+07:00</published><updated>2018-01-12T11:16:18+07:00</updated><id>http://localhost:4000/blog/pekenalan</id><content type="html" xml:base="http://localhost:4000/blog/pekenalan/">&lt;p&gt;Hi semuanya, perkenalkan nama saya Ilham Saputrajati biasa di panggil ilham.&lt;br /&gt;
+Hobi saya&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Programming&lt;/li&gt;
+  &lt;li&gt;Juggle &amp;amp; Flair Bartending .&lt;/li&gt;
+  &lt;li&gt;Main gitar&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;https://www.youtube.com/channel/UCNZODf8V4fh9P4KQAxd9f_Q&lt;/p&gt;
+&lt;p&gt;Saya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.&lt;br /&gt;
+Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO, atau menjadi seorang Full Stack Developer.&lt;br /&gt;
+Saya sangat mencintai teknologi, kalau teknologi ini virus mungkin saya sudah hilang sejak SMA.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Kesuksesan terbesar adalah ketika saya bermanfaat untuk orang lain, menyelesaikan masalah yang mereka alami dengan teknologi.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Outwear&lt;/p&gt;
-
-&lt;p&gt;Footwear
-https://www.zerka.id/index.php?route=journal2/blog&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Timeline" /><category term="Documenter" /><summary type="html">Hal positif skill Gitar &amp; Fashion Meningkat</summary></entry><entry><title type="html">Logo Universitas PGRI Yogyakarta</title><link href="http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/" rel="alternate" type="text/html" title="Logo Universitas PGRI Yogyakarta" /><published>2017-06-25T19:09:12+07:00</published><updated>2017-06-25T19:09:12+07:00</updated><id>http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta</id><content type="html" xml:base="http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/">&lt;figure class=&quot;third &quot;&gt;
+&lt;p&gt;Saat ini saya sedang mengembangkan aplikasi Mobile untuk mengatasi permasalahan kematian dan transplantasi organ tubuh&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="perkenalan" /><summary type="html">Kesuksesan terbesar dalam hidup saya adalah ketika mampu menyelesaikan masalah orang lain dengan teknologi</summary></entry><entry><title type="html">Logo Universitas PGRI Yogyakarta</title><link href="http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/" rel="alternate" type="text/html" title="Logo Universitas PGRI Yogyakarta" /><published>2017-06-25T19:09:12+07:00</published><updated>2017-06-25T19:09:12+07:00</updated><id>http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta</id><content type="html" xml:base="http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/">&lt;figure class=&quot;third &quot;&gt;
   
     
       &lt;a href=&quot;/assets/images/upy-yellow.jpg&quot; title=&quot;Logo UPY warna kuning&quot;&gt;
@@ -38,23 +110,4 @@ https://www.zerka.id/index.php?route=journal2/blog&lt;/p&gt;</content><author><n
     &lt;figcaption&gt;Silahkan di download &lt;strong&gt;Logo Universitas PGRI Yogyakarta&lt;/strong&gt;.
 &lt;/figcaption&gt;
   
-&lt;/figure&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Universitas PGRI Yogyakarta" /><category term="Logo" /><summary type="html">Logo Universitas PGRI Yogyakarta</summary></entry><entry><title type="html">Professional Developers don’t memorize everything</title><link href="http://localhost:4000/blog/developers-say/" rel="alternate" type="text/html" title="Professional Developers don't memorize everything" /><published>2017-06-22T11:16:18+07:00</published><updated>2017-06-22T11:16:18+07:00</updated><id>http://localhost:4000/blog/developers-say</id><content type="html" xml:base="http://localhost:4000/blog/developers-say/">&lt;blockquote&gt;
-  &lt;p&gt;Don’t worry, you don’t have to memorize them. You can look up their definitions by clicking here and searching for them. Believe it or not, professional developers don’t memorize everything – looking up information is a key part of the job! You can look up their definitions in the Vocab Glossary.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Developer" /><category term="Developer Tips" /><summary type="html">looking up information is a key part of the job! You can look up their definitions in the Vocab Glossaryi</summary></entry><entry><title type="html">KKN UPY Kelompok 27 Desa Kesenet</title><link href="http://localhost:4000/blog/kkn-upy/" rel="alternate" type="text/html" title="KKN UPY Kelompok 27 Desa Kesenet " /><published>2017-06-20T11:16:18+07:00</published><updated>2017-06-20T11:16:18+07:00</updated><id>http://localhost:4000/blog/kkn-upy</id><content type="html" xml:base="http://localhost:4000/blog/kkn-upy/">&lt;p&gt;KKN UPY ke-XXXIII (33) Kelompok 27 pada tanggal 28 Januari 2019 dengan tema “Peningkatan Program Pemberdayaan Berbasis Budaya Lokal Menuju
-Masyarakat Mandiri”
-Terdiri dari 23 Orang dari berbagai program studi&lt;br /&gt;
-Lokasi berada di Desa Kesenet Kecamatan Banjarmangu, Banjarnegara&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="perkenalan" /><summary type="html">kesuksesan terbesar dalam hidup saya adalah ketika saya membantu orang lain dengan hobi, menyelesaikan masalah yang mereka alami dengan teknologi</summary></entry><entry><title type="html">Kenalan Yuk !</title><link href="http://localhost:4000/blog/pekenalan/" rel="alternate" type="text/html" title="Kenalan Yuk !" /><published>2017-06-20T11:16:18+07:00</published><updated>2017-06-20T11:16:18+07:00</updated><id>http://localhost:4000/blog/pekenalan</id><content type="html" xml:base="http://localhost:4000/blog/pekenalan/">&lt;p&gt;Hi semuanya, perkenalkan nama saya Ilham Saputrajati biasa di panggil ilham.&lt;br /&gt;
-Hobi saya&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Programming&lt;/li&gt;
-  &lt;li&gt;Juggle &amp;amp; Flair Bartending .&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Saya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.&lt;br /&gt;
-Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO, atau menjadi seorang Full Stack Developer.&lt;br /&gt;
-Saya sangat mencintai teknologi, kalau teknologi ini virus mungkin saya sudah hilang sejak SMA.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Kesuksesan terbesar adalah ketika saya bermanfaat untuk orang lain, menyelesaikan masalah yang mereka alami dengan teknologi.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Saat ini saya sedang mengembangkan aplikasi Mobile untuk mengatasi permasalahan kematian dan transplantasi organ tubuh&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="perkenalan" /><summary type="html">kesuksesan terbesar dalam hidup saya adalah ketika saya membantu orang lain dengan hobi, menyelesaikan masalah yang mereka alami dengan teknologi</summary></entry></feed>
+&lt;/figure&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Universitas PGRI Yogyakarta" /><category term="Logo" /><summary type="html">Logo Universitas PGRI Yogyakarta</summary></entry></feed>
