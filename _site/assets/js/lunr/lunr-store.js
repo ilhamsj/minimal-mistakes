@@ -17,5 +17,5 @@ var store = [{
         "title": "Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools",
         "excerpt":"Hi developers, kali ini saya bakalan sharing nama nama bayi yang terinspirasi dari bahasa pemrograman             Bahasa Pemrograman      Nama                  SQL      Ezkiel              Vim      Vim              Vue      Vue              Sass      Sasa              React      Rea              Swift      swifty              Js      Jessy              Git      gita              Laravel      Lara              Debian      Debi              CSS      Cassy              Jekyll      Jackie      ","categories": ["blog"],
         "tags": ["Tutorial"],
-        "url": "http://localhost:4000/blog/bank-nama-bayi-terinspirasi-dari-bahasa-pemrograman/",
+        "url": "http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/",
         "teaser":"http://localhost:4000/assets/images/teaser.jpg"}]
