@@ -16,7 +16,8 @@ Hobi saya
 * Main gitar
 
 Saya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.  
-Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO, atau menjadi seorang Full Stack Developer.  
+Cita-cita saya menjadi orang yang bermanfaat orang lain sesuai dengan bidang studi saya (Engineer, Dosen, CEO, Bupati)
+
 Saya sangat mencintai teknologi, kalau teknologi ini virus mungkin saya sudah hilang sejak SMA.
 > Kesuksesan terbesar adalah ketika saya bermanfaat untuk orang lain, menyelesaikan masalah yang mereka alami dengan teknologi.  
 

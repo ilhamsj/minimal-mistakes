@@ -5,12 +5,12 @@ var store = [{
         "url": "http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/",
         "teaser":"http://localhost:4000/assets/images/teaser.jpg"},{
         "title": "Ilham Saputra Jati - Solve Problems with technology",
-        "excerpt":"Hi semuanya, perkenalkan nama saya Ilham Saputrajati biasa di panggil ilham.Hobi saya Programming Juggle &amp; Flair Bartending . Main gitarSaya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO, atau menjadi seorang Full Stack Developer.Saya sangat mencintai teknologi, kalau teknologi ini virus...","categories": ["blog"],
+        "excerpt":"Hi semuanya, perkenalkan nama saya Ilham Saputrajati biasa di panggil ilham.Hobi saya Programming Juggle &amp; Flair Bartending . Main gitarSaya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.Cita-cita saya menjadi orang yang bermanfaat orang lain sesuai dengan bidang studi saya (Engineer, Dosen, CEO, Bupati) Saya sangat mencintai teknologi,...","categories": ["blog"],
         "tags": ["perkenalan"],
         "url": "http://localhost:4000/blog/pekenalan/",
         "teaser":"http://localhost:4000/assets/images/teaser.jpg"},{
         "title": "Cara menggunakan smartphone sebagai clicker",
-        "excerpt":"Hallo semuanya, kali ini saya bakalan sharing gimana caranya menggunakan smartphone sebagai clicker, daripada temen temen beli clicker mending manfaatin smartphone. Google slide Install Chrome extension : Remote for Slides Install Remote for Slides di android Buka google slide Pilih present w/ remote Klik show ID, catat ID Buka aplikasi...","categories": ["blog"],
+        "excerpt":"Hallo semuanya, teman teman pasti pernah melakukan presentasi, ketika presentasi untuk mengendalikan slide after/previous slide biasanya menggunakan keyboard.akan tetapi ketika kita presentasi dalam acara acara penting seperti seminar, workshop, presentasi pitch desk ke investor tidak mungkin menggunakan keyboard karena sangat tidak terlihat professional. biasanya orang orang menggunakan clicker seperti ini...","categories": ["blog"],
         "tags": ["Tutorial"],
         "url": "http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/",
         "teaser":"http://localhost:4000/assets/images/teaser.jpg"},{

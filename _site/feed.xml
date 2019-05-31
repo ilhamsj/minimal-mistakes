@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-30T14:03:43+07:00</updated><id>http://localhost:4000/</id><title type="html">Blog Ilham Saputrajati</title><subtitle>Kenang Kenangan dari ilham untuk ilham dimasa depan</subtitle><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><entry><title type="html">Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools</title><link href="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/" rel="alternate" type="text/html" title="Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools" /><published>2019-05-30T13:00:00+07:00</published><updated>2019-05-30T13:00:00+07:00</updated><id>http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman</id><content type="html" xml:base="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/">&lt;p&gt;Hi developers, kali ini saya bakalan sharing nama nama bayi yang terinspirasi dari bahasa pemrograman&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-01T04:34:07+07:00</updated><id>http://localhost:4000/</id><title type="html">Blog Ilham Saputrajati</title><subtitle>Kenang Kenangan dari ilham untuk ilham dimasa depan</subtitle><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><entry><title type="html">Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools</title><link href="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/" rel="alternate" type="text/html" title="Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools" /><published>2019-05-30T13:00:00+07:00</published><updated>2019-05-30T13:00:00+07:00</updated><id>http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman</id><content type="html" xml:base="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/">&lt;p&gt;Hi developers, kali ini saya bakalan sharing nama nama bayi yang terinspirasi dari bahasa pemrograman&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -57,21 +57,43 @@
       &lt;td&gt;Jackie&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Tutorial" /><summary type="html">Kamu programmer? developers? berikut ini 20 nama nama bayi yang terinspirasi dari bahasa pemrograman</summary></entry><entry><title type="html">Cara menggunakan smartphone sebagai clicker</title><link href="http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/" rel="alternate" type="text/html" title="Cara menggunakan smartphone sebagai clicker" /><published>2019-05-29T11:16:18+07:00</published><updated>2019-05-29T11:16:18+07:00</updated><id>http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker</id><content type="html" xml:base="http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/">&lt;p&gt;Hallo semuanya, kali ini saya bakalan sharing gimana caranya menggunakan smartphone sebagai clicker, daripada temen temen beli clicker mending manfaatin smartphone.&lt;/p&gt;
+&lt;/table&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Tutorial" /><summary type="html">Kamu programmer? developers? berikut ini 20 nama nama bayi yang terinspirasi dari bahasa pemrograman</summary></entry><entry><title type="html">Cara menggunakan smartphone sebagai clicker</title><link href="http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/" rel="alternate" type="text/html" title="Cara menggunakan smartphone sebagai clicker" /><published>2019-05-29T11:16:18+07:00</published><updated>2019-05-29T11:16:18+07:00</updated><id>http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker</id><content type="html" xml:base="http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/">&lt;p&gt;Hallo semuanya, 
+teman teman pasti pernah melakukan presentasi, ketika presentasi untuk mengendalikan slide after/previous slide biasanya menggunakan keyboard.
+akan tetapi ketika kita presentasi dalam acara acara penting seperti seminar, workshop, presentasi pitch desk ke investor tidak mungkin menggunakan keyboard karena sangat tidak terlihat professional.&lt;/p&gt;
 
+&lt;p&gt;biasanya orang orang menggunakan clicker seperti ini&lt;br /&gt;
+&lt;img src=&quot;..\..\assets\images\posts\clicker.jpg&quot; alt=&quot;Clicker&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;sayangnya tidak semua orang mempunyai clicker karena tergolong ribet, mahal, terkadang presenter mempunyai catatan dalam slide presentasi, tidak mungkin kita bolak balik melihat catatan ke komputer lalu ke audiens karena sangat tidak professional.&lt;/p&gt;
+
+&lt;p&gt;oleh karena itu kali ini saya akan sharing bagaimana caranya menggunakan clicker di smartphone(android maupun IOS).
+Aplikasi ini mempunyai versi PWA yang dapat diinstal di semua smartphone yang telah terinstall chrome,
+buat temen temen yang belum kenal dengan pwa bisa kenalan &lt;a href=&quot;#&quot;&gt;PWA Progressive Web Apps&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;kelebihan-clicker-di-smartphone&quot;&gt;Kelebihan Clicker di Smartphone&lt;/h2&gt;
 &lt;ol&gt;
-  &lt;li&gt;Google slide&lt;/li&gt;
-  &lt;li&gt;Install Chrome extension : &lt;a href=&quot;https://chrome.google.com/webstore/detail/remote-for-slides/pojijacppbhikhkmegdoechbfiiibppi&quot;&gt;Remote for Slides&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Install &lt;a href=&quot;https://play.google.com/store/apps/details?id=xyz.limhenry.slides.lite&quot;&gt;Remote for Slides&lt;/a&gt; di android&lt;/li&gt;
-  &lt;li&gt;Buka google slide&lt;/li&gt;
+  &lt;li&gt;Tidak ribet, tidak perlu membawa barang tambahan (clicker)&lt;/li&gt;
+  &lt;li&gt;Dapat menampilkan notes&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;peralatan&quot;&gt;Peralatan&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Slide presentasi (Google slide), cara convert Ms PowerPoint ke google slide&lt;/li&gt;
+  &lt;li&gt;Install &lt;a href=&quot;https://chrome.google.com/webstore/detail/remote-for-slides/pojijacppbhikhkmegdoechbfiiibppi&quot;&gt;Remote for Slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Install &lt;a href=&quot;https://play.google.com/store/apps/details?id=xyz.limhenry.slides.lite&quot;&gt;Remote for Slides&lt;/a&gt; di smartphone&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;cara&quot;&gt;Cara&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Buka slide presentasi google slide&lt;/li&gt;
   &lt;li&gt;Pilih present w/ remote&lt;/li&gt;
   &lt;li&gt;Klik show ID, catat ID&lt;/li&gt;
   &lt;li&gt;Buka aplikasi masukkan ID&lt;/li&gt;
   &lt;li&gt;Connect&lt;/li&gt;
-  &lt;li&gt;Kamu juga bisa nampilin notes dan zoom notes&lt;/li&gt;
+  &lt;li&gt;Klik zoom untuk Menampilkan notes dari slide&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Masih belum jelas atau nemu masalah ? tulis di kolom komentar ya&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Tutorial" /><summary type="html">Kali ini saya bakalan sharing gimana caranya menggunakan smartphone sebagai clicker</summary></entry><entry><title type="html">Ilham Saputra Jati - Solve Problems with technology</title><link href="http://localhost:4000/blog/pekenalan/" rel="alternate" type="text/html" title="Ilham Saputra Jati - Solve Problems with technology" /><published>2018-01-12T11:16:18+07:00</published><updated>2018-01-12T11:16:18+07:00</updated><id>http://localhost:4000/blog/pekenalan</id><content type="html" xml:base="http://localhost:4000/blog/pekenalan/">&lt;p&gt;Hi semuanya, perkenalkan nama saya Ilham Saputrajati biasa di panggil ilham.&lt;br /&gt;
+&lt;p&gt;Masih belum jelas atau mendapatkan masalah ? tulis di kolom komentar ya&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Tutorial" /><summary type="html">Kali ini saya bakalan sharing gimana caranya menggunakan smartphone sebagai clicker</summary></entry><entry><title type="html">Ilham Saputra Jati - Solve Problems with technology</title><link href="http://localhost:4000/blog/pekenalan/" rel="alternate" type="text/html" title="Ilham Saputra Jati - Solve Problems with technology" /><published>2018-01-12T11:16:18+07:00</published><updated>2018-01-12T11:16:18+07:00</updated><id>http://localhost:4000/blog/pekenalan</id><content type="html" xml:base="http://localhost:4000/blog/pekenalan/">&lt;p&gt;Hi semuanya, perkenalkan nama saya Ilham Saputrajati biasa di panggil ilham.&lt;br /&gt;
 Hobi saya&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Programming&lt;/li&gt;
@@ -80,8 +102,9 @@ Hobi saya&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Saya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.&lt;br /&gt;
-Cita-cita saya menjadi seorang Bupati di Gunungkidul, CEO, atau menjadi seorang Full Stack Developer.&lt;br /&gt;
-Saya sangat mencintai teknologi, kalau teknologi ini virus mungkin saya sudah hilang sejak SMA.&lt;/p&gt;
+Cita-cita saya menjadi orang yang bermanfaat orang lain sesuai dengan bidang studi saya (Engineer, Dosen, CEO, Bupati)&lt;/p&gt;
+
+&lt;p&gt;Saya sangat mencintai teknologi, kalau teknologi ini virus mungkin saya sudah hilang sejak SMA.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Kesuksesan terbesar adalah ketika saya bermanfaat untuk orang lain, menyelesaikan masalah yang mereka alami dengan teknologi.&lt;/p&gt;
 &lt;/blockquote&gt;
