@@ -23,7 +23,7 @@ description              : &description "Kenang Kenangan dari ilham untuk ilham 
 url                      : https://ilhamsj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ilhamsj/ilhamsj.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : assets/images/teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : #assets/images/teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : # true #, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -95,11 +95,11 @@ analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-121184887-1"
-    anonymize_ip         : false # true, false (default)
+    anonymize_ip         : true # true, false (default)
 
 # Site Author
 author:
-  name             : "Ilham Saputrajati"
+  name             : *name
   avatar           : "assets/images/avatar.png"
   bio              : "Solve Problems with Technology"
   location         : "Yogyakarta"
@@ -254,6 +254,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
