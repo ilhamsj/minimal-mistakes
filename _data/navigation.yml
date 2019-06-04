@@ -5,7 +5,10 @@ main:
 
   - title: "About"
     url: /about/
-
+  - title: "Contact"
+    url: /contact/
+  - title: "Portofolio"
+    url: /portofolio/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
