@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Ucapan Selamat hari raya Idul Fitri 1440 H (2019)"
-date:   2017-06-25 19:09:12 +0700
+date:   2019-06-05 19:09:12 +0700
 excerpt: "Ucapan Selamat hari raya Idul Fitri 1440 H (2019)"
 categories:
     - blog
@@ -21,4 +21,4 @@ gallery:
     title: "Ucapan Selamat hari raya Idul Fitri 1440 H (2019)"
 ---
 
-# Ucapan Hari Raya Idul Fitri 1440 H
+{% include gallery caption="Ucapan Hari Raya Idul Fitri 1440 H (2019)" %}
