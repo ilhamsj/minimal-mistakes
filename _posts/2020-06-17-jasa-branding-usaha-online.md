@@ -46,14 +46,14 @@ tags :
 1. Landing Page
 1. Landing Page + Blog
 1. E-Commerce (Jual Beli)
-- 
+
 ### Jasa SEO / Digital Marketing
 1. Facebook Ads
 1. Instagram Ads
 1. Google Adwords
 
 ### Admin
-Admin Freelance
+1. Admin Freelance
 
 Jika anda tertarik menggunakan jasa kami silahkan hubungi melalui
 [Whatsapp](https://api.whatsapp.com/send?phone=6289666445551)
