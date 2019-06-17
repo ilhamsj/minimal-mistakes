@@ -4,11 +4,6 @@ var store = [{
         "tags": ["Universitas PGRI Yogyakarta","Logo"],
         "url": "http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/",
         "teaser":null},{
-        "title": "Ucapan Selamat hari raya Idul Fitri 1440 H (2019)",
-        "excerpt":"Ucapan Hari Raya Idul Fitri 1440 H ","categories": ["blog","Idul Fitri"],
-        "tags": ["Bungamasraya","Banner Vector"],
-        "url": "http://localhost:4000/blog/idul%20fitri/ucapan-idul-fitri-2019/",
-        "teaser":null},{
         "title": "Ilham Saputra Jati - Solve Problems with technology",
         "excerpt":"Hi semuanya, perkenalkan nama saya Ilham Saputrajati biasa di panggil ilham.Hobi saya Programming Juggle &amp; Flair Bartending . Main gitarSaya adalah pribadi yang mempunyai semangat belajar dan motivasi yang tinggi.Cita-cita saya menjadi orang yang bermanfaat orang lain sesuai dengan bidang studi saya (Engineer, Dosen, CEO, Bupati) Saya sangat mencintai teknologi,...","categories": ["blog"],
         "tags": ["perkenalan"],
