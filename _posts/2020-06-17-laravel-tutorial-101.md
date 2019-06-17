@@ -9,21 +9,21 @@ tags :
     - web developer
 
 gallery:
-  - url: https://en.wikipedia.org/wiki/Laravel#/media/File:Laravel.svg
-    image_path: https://en.wikipedia.org/wiki/Laravel#/media/File:Laravel.svg
+  - url: https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg
+    image_path: https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg
     alt: "Laravel Logo SVG"
     title: "Laravel Logo SVG"
 ---
 
-{% include gallery caption="Silahkan di download **Logo Universitas PGRI Yogyakarta**." %}
+{% include gallery caption="Laravel **Pack**." %}
 
 Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 
-# `Table\of\Contents`
+# Table of Contents
 - [Installation](#installation)
 - [Env](#env)
 - [Database](#databasemigration)
-    - [Migration]
+    - [Migration](#Migration)
 - [Model](#model)
 - [View](#view)
 - [Controller](#controller)
@@ -33,7 +33,9 @@ Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 ## Installation
 ## CLI
 ## Env
-## `Database\Migration`
+## Database 
+### Migration
+1. ``php artisan make:model ModelName -m``
 1. ``php artisan migrate``
 1. ``use Illuminate\Support\Facades\Schema;``
 1. ``Schema::defaultStringLength(191);``
@@ -48,12 +50,14 @@ Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 ## Blade Template
 ## Route
 ## Model
+``php artisan make:model ModelName -m``
+
 ## View
 ## Controller
 ## Auth
 ## Eloquent ORM  
 
-## heroku
+## Heroku
 1. ``echo web: vendor/bin/heroku-php-apache2 public/ > Procfile``
 1. ``heroku create``
 1. ``heroku addons:create cleardb:ignite``
