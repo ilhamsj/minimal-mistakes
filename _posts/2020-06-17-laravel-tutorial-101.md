@@ -1,0 +1,60 @@
+---
+layout: single
+title:  "Laravel tutorial 101"
+date:   2019-06-17 19:09:12 +0700
+excerpt: "Laravel tutorial 101"
+categories:
+    - Laravel
+tags :
+    - web developer
+
+gallery:
+  - url: https://en.wikipedia.org/wiki/Laravel#/media/File:Laravel.svg
+    image_path: https://en.wikipedia.org/wiki/Laravel#/media/File:Laravel.svg
+    alt: "Laravel Logo SVG"
+    title: "Laravel Logo SVG"
+---
+
+{% include gallery caption="Silahkan di download **Logo Universitas PGRI Yogyakarta**." %}
+
+Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
+
+# `Table\of\Contents`
+- [Installation](#installation)
+- [Env](#env)
+- [Database](#databasemigration)
+    - [Migration]
+- [Model](#model)
+- [View](#view)
+- [Controller](#controller)
+- [ORM](#orm)
+- [Deploy Laravel to Heroku](#heroku)
+
+## Installation
+## CLI
+## Env
+## `Database\Migration`
+1. ``php artisan migrate``
+1. ``use Illuminate\Support\Facades\Schema;``
+1. ``Schema::defaultStringLength(191);``
+
+## Seeding
+1. ``php artisan make:factory ModelNameFactory --model=ModelName``
+1. ``php artisan make:seeder ModelNamesTableSeeder``
+1. Call factory in [DatabaseSeeder](database\seeds\DatabaseSeeder.php)
+``$this->call(ModelNamesTableSeeder::class);``
+1. ``php artisan db:seed``
+
+## Blade Template
+## Route
+## Model
+## View
+## Controller
+## Auth
+## Eloquent ORM  
+
+## heroku
+1. ``echo web: vendor/bin/heroku-php-apache2 public/ > Procfile``
+1. ``heroku create``
+1. ``heroku addons:create cleardb:ignite``
+1. ``heroku config:get CLEARDB_DATABASE_URL``
