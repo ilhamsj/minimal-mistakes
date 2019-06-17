@@ -13,6 +13,14 @@ gallery:
     image_path: https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg
     alt: "Laravel Logo SVG"
     title: "Laravel Logo SVG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg
+    image_path: https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg
+    alt: "Laravel Logo SVG"
+    title: "Laravel Logo SVG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg
+    image_path: https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg
+    alt: "Laravel Logo SVG"
+    title: "Laravel Logo SVG"
 ---
 
 {% include gallery caption="Laravel **Pack**." %}
@@ -23,15 +31,21 @@ Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 - [Installation](#installation)
 - [Env](#env)
 - [Database](#databasemigration)
-    - [Migration](#Migration)
+- [Migration](#Migration)
 - [Model](#model)
 - [View](#view)
 - [Controller](#controller)
 - [ORM](#orm)
 - [Deploy Laravel to Heroku](#heroku)
+- [Excerpt](#excerpt)
+- [Pagination](#pagination)
 
 ## Installation
+``laravel new YourAppName``
+
 ## CLI
+``php artisan serve``
+
 ## Env
 ## Database 
 ### Migration
@@ -45,6 +59,7 @@ Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 1. ``php artisan make:seeder ModelNamesTableSeeder``
 1. Call factory in [DatabaseSeeder](database\seeds\DatabaseSeeder.php)
 ``$this->call(ModelNamesTableSeeder::class);``
+1. ``factory(ModelName::class, 5)->create();``
 1. ``php artisan db:seed``
 
 ## Blade Template
@@ -62,3 +77,9 @@ Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 1. ``heroku create``
 1. ``heroku addons:create cleardb:ignite``
 1. ``heroku config:get CLEARDB_DATABASE_URL``
+
+## Excerpt
+``{{ str_limit($value, $limit = 100, $end = '...') }}``
+
+## Pagination
+``$modelnames = ModelName::paginate(9);``
