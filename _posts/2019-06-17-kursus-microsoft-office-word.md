@@ -5,7 +5,8 @@ date:   2019-06-17 19:09:12 +0700
 excerpt: "Kursus Private Microsoft Word Yogyakarta"
 categories:
     - blog
-    - logo
+    - kursus
+    - training
 tags :
     - Kursus
     - Microsoft Word
