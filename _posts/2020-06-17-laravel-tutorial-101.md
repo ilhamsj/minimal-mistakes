@@ -30,8 +30,7 @@ Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 # Table of Contents
 - [Installation](#installation)
 - [Env](#env)
-- [Database](#databasemigration)
-- [Migration](#Migration)
+- [Database Migration](#Migration)
 - [Model](#model)
 - [View](#view)
 - [Controller](#controller)
@@ -39,6 +38,7 @@ Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 - [Deploy Laravel to Heroku](#heroku)
 - [Excerpt](#excerpt)
 - [Pagination](#pagination)
+- [Image For Testing](https://picsum.photos/)
 
 ## Installation
 ``laravel new YourAppName``
@@ -79,7 +79,10 @@ Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 1. ``heroku config:get CLEARDB_DATABASE_URL``
 
 ## Excerpt
-``{{ str_limit($value, $limit = 100, $end = '...') }}``
+``str_limit($value, $limit = 100, $end = '...')``
 
 ## Pagination
 ``$modelnames = ModelName::paginate(9);``
+
+# Image
+![Image for testing][https://picsum.photos/]
