@@ -38,7 +38,7 @@ Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 - [Deploy Laravel to Heroku](#heroku)
 - [Excerpt](#excerpt)
 - [Pagination](#pagination)
-- [Image For Testing](https://picsum.photos/)
+- [Image For Testing](#image)
 
 ## Installation
 ``laravel new YourAppName``
@@ -85,4 +85,4 @@ Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 ``$modelnames = ModelName::paginate(9);``
 
 # Image
-![Image for testing][https://picsum.photos/]
+![Image for testing](https://picsum.photos/300/200 "Test")

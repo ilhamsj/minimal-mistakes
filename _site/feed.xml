@@ -1,4 +1,228 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-05T00:39:50+07:00</updated><id>http://localhost:4000/</id><title type="html">Blog Ilham Saputrajati</title><subtitle>Kenang Kenangan dari ilham untuk ilham dimasa depan</subtitle><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><entry><title type="html">Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools</title><link href="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/" rel="alternate" type="text/html" title="Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools" /><published>2019-05-30T13:00:00+07:00</published><updated>2019-05-30T13:00:00+07:00</updated><id>http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman</id><content type="html" xml:base="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/">&lt;p&gt;Hi developers, kali ini saya bakalan sharing nama nama bayi yang terinspirasi dari bahasa pemrograman&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-18T01:32:13+07:00</updated><id>http://localhost:4000/</id><title type="html">Blog Ilham Saputrajati</title><subtitle>Kenang Kenangan dari ilham untuk ilham dimasa depan</subtitle><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><entry><title type="html">Laravel tutorial 101</title><link href="http://localhost:4000/laravel/laravel-tutorial-101/" rel="alternate" type="text/html" title="Laravel tutorial 101" /><published>2019-06-17T19:09:12+07:00</published><updated>2019-06-17T19:09:12+07:00</updated><id>http://localhost:4000/laravel/laravel-tutorial-101</id><content type="html" xml:base="http://localhost:4000/laravel/laravel-tutorial-101/">&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg&quot; title=&quot;Laravel Logo SVG&quot;&gt;
+        &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg&quot; alt=&quot;Laravel Logo SVG&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg&quot; title=&quot;Laravel Logo SVG&quot;&gt;
+        &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg&quot; alt=&quot;Laravel Logo SVG&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg&quot; title=&quot;Laravel Logo SVG&quot;&gt;
+        &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg&quot; alt=&quot;Laravel Logo SVG&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Laravel &lt;strong&gt;Pack&lt;/strong&gt;.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~&lt;/p&gt;
+
+&lt;h1 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#installation&quot;&gt;Installation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#env&quot;&gt;Env&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#Migration&quot;&gt;Database Migration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#model&quot;&gt;Model&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#view&quot;&gt;View&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#controller&quot;&gt;Controller&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#orm&quot;&gt;ORM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#heroku&quot;&gt;Deploy Laravel to Heroku&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#excerpt&quot;&gt;Excerpt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pagination&quot;&gt;Pagination&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#image&quot;&gt;Image For Testing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;laravel new YourAppName&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cli&quot;&gt;CLI&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;php artisan serve&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;env&quot;&gt;Env&lt;/h2&gt;
+&lt;h2 id=&quot;database&quot;&gt;Database&lt;/h2&gt;
+&lt;h3 id=&quot;migration&quot;&gt;Migration&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;php artisan make:model ModelName -m&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;php artisan migrate&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;use Illuminate\Support\Facades\Schema;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Schema::defaultStringLength(191);&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;seeding&quot;&gt;Seeding&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;php artisan make:factory ModelNameFactory --model=ModelName&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;php artisan make:seeder ModelNamesTableSeeder&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Call factory in &lt;a href=&quot;database\seeds\DatabaseSeeder.php&quot;&gt;DatabaseSeeder&lt;/a&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;$this-&amp;gt;call(ModelNamesTableSeeder::class);&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;factory(ModelName::class, 5)-&amp;gt;create();&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;php artisan db:seed&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;blade-template&quot;&gt;Blade Template&lt;/h2&gt;
+&lt;h2 id=&quot;route&quot;&gt;Route&lt;/h2&gt;
+&lt;h2 id=&quot;model&quot;&gt;Model&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;php artisan make:model ModelName -m&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;view&quot;&gt;View&lt;/h2&gt;
+&lt;h2 id=&quot;controller&quot;&gt;Controller&lt;/h2&gt;
+&lt;h2 id=&quot;auth&quot;&gt;Auth&lt;/h2&gt;
+&lt;h2 id=&quot;eloquent-orm&quot;&gt;Eloquent ORM&lt;/h2&gt;
+
+&lt;h2 id=&quot;heroku&quot;&gt;Heroku&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;echo web: vendor/bin/heroku-php-apache2 public/ &amp;gt; Procfile&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;heroku create&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;heroku addons:create cleardb:ignite&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;heroku config:get CLEARDB_DATABASE_URL&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;excerpt&quot;&gt;Excerpt&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;str_limit($value, $limit = 100, $end = '...')&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pagination&quot;&gt;Pagination&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$modelnames = ModelName::paginate(9);&lt;/code&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;image&quot;&gt;Image&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://picsum.photos/300/200&quot; alt=&quot;Image for testing&quot; title=&quot;Test&quot; /&gt;&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="web developer" /><summary type="html">Laravel tutorial 101</summary></entry><entry><title type="html">Jasa pembuatan website murah</title><link href="http://localhost:4000/blog/jasa-branding-usaha-online/" rel="alternate" type="text/html" title="Jasa pembuatan website murah" /><published>2019-06-17T19:09:12+07:00</published><updated>2019-06-17T19:09:12+07:00</updated><id>http://localhost:4000/blog/jasa-branding-usaha-online</id><content type="html" xml:base="http://localhost:4000/blog/jasa-branding-usaha-online/">&lt;!-- 
+
+
+
+&lt;figure class=&quot; &quot;&gt;
+  
+  
+    &lt;figcaption&gt;Silahkan di download &lt;strong&gt;Logo Universitas PGRI Yogyakarta&lt;/strong&gt;.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt; --&gt;
+
+&lt;h2 id=&quot;layanan-yang-kami-berikan-untuk-branding-usaha-viralonline&quot;&gt;Layanan yang kami berikan untuk Branding Usaha Viral/Online&lt;/h2&gt;
+&lt;h3 id=&quot;social-media-setup&quot;&gt;Social Media Setup&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Email&lt;/li&gt;
+  &lt;li&gt;Facebook pages&lt;/li&gt;
+  &lt;li&gt;Instagram&lt;/li&gt;
+  &lt;li&gt;Twitter&lt;/li&gt;
+  &lt;li&gt;Whatsapp business&lt;/li&gt;
+  &lt;li&gt;Google My business&lt;/li&gt;
+  &lt;li&gt;2 Pilihan Social Media Lainnya&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Logo&lt;/li&gt;
+  &lt;li&gt;Campaign&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;content&quot;&gt;Content&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Content/Hari&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;jasa-pembuatan-website&quot;&gt;Jasa Pembuatan Website&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Landing Page&lt;/li&gt;
+  &lt;li&gt;Landing Page + Blog&lt;/li&gt;
+  &lt;li&gt;E-Commerce (Jual Beli)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;jasa-seo--digital-marketing&quot;&gt;Jasa SEO / Digital Marketing&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Facebook Ads&lt;/li&gt;
+  &lt;li&gt;Instagram Ads&lt;/li&gt;
+  &lt;li&gt;Google Adwords&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;admin&quot;&gt;Admin&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Admin Freelance&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Jika anda tertarik menggunakan jasa kami silahkan hubungi melalui
+&lt;a href=&quot;https://api.whatsapp.com/send?phone=6289666445551&quot;&gt;Whatsapp&lt;/a&gt;&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="website" /><summary type="html">Jasa Pembuatan Website Murah</summary></entry><entry><title type="html">Kursus Private Microsoft Word Yogyakarta</title><link href="http://localhost:4000/blog/kursus/training/kursus-microsoft-office-word/" rel="alternate" type="text/html" title="Kursus Private Microsoft Word Yogyakarta" /><published>2019-06-17T19:09:12+07:00</published><updated>2019-06-17T19:09:12+07:00</updated><id>http://localhost:4000/blog/kursus/training/kursus-microsoft-office-word</id><content type="html" xml:base="http://localhost:4000/blog/kursus/training/kursus-microsoft-office-word/">&lt;!-- 
+
+
+
+&lt;figure class=&quot; &quot;&gt;
+  
+  
+    &lt;figcaption&gt;Silahkan di download &lt;strong&gt;Logo Universitas PGRI Yogyakarta&lt;/strong&gt;.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt; --&gt;
+
+&lt;h2 id=&quot;materi-kursustraining-microsoft-office-word&quot;&gt;Materi Kursus/Training Microsoft Office Word&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Membuat Dan Menyimpan Dokumen Kerja&lt;/li&gt;
+  &lt;li&gt;Menjalankan Microsoft Word&lt;/li&gt;
+  &lt;li&gt;Pengenalan Interface/Tampilan Word&lt;/li&gt;
+  &lt;li&gt;Membuat Dokumen Baru Dalam Microsoft Word&lt;/li&gt;
+  &lt;li&gt;Menyimpan Dokumen Kerja&lt;/li&gt;
+  &lt;li&gt;Menutup Dokumen Kerja&lt;/li&gt;
+  &lt;li&gt;Mengedit Dokumen Kerja Dan Memformat Huruf&lt;/li&gt;
+  &lt;li&gt;Membuka Dokumen Kerja Yang Telah Di Simpan&lt;/li&gt;
+  &lt;li&gt;Memilih Teks Yang Akan Di Format/Edit&lt;/li&gt;
+  &lt;li&gt;Memindahkan Dan Menduplikasi Teks&lt;/li&gt;
+  &lt;li&gt;Memformat Huruf/Font&lt;/li&gt;
+  &lt;li&gt;Mengatur Perataan Paragraf&lt;/li&gt;
+  &lt;li&gt;Membuat Numbering&lt;/li&gt;
+  &lt;li&gt;Membuat Bullet&lt;/li&gt;
+  &lt;li&gt;Mengatur Jarak Baris/Spasi Baris&lt;/li&gt;
+  &lt;li&gt;Mengatur Jarak Paragraf, Orientasi Halaman Dan Menyisipkan tanggal&lt;/li&gt;
+  &lt;li&gt;Mengatur Jarak Antar Paragraf.&lt;/li&gt;
+  &lt;li&gt;Mengatur Jarak Indentasi (Jarak Teks Terhadap Margin).&lt;/li&gt;
+  &lt;li&gt;Mengatur Margin, Ukuran Dan Orientasi Halaman/ Page Size&lt;/li&gt;
+  &lt;li&gt;Menambahkan tanggal dalam dokumen&lt;/li&gt;
+  &lt;li&gt;Mencari Teks, Halaman, Menggabungkan Dokumen Dan Menggunakan Format Kolom.&lt;/li&gt;
+  &lt;li&gt;Mencari (Find) Dan Mengganti (Replace) Teks&lt;/li&gt;
+  &lt;li&gt;Berpindah Ke Halaman Tertentu&lt;/li&gt;
+  &lt;li&gt;Menggabungkan Dua Dokumen Atau Lebih&lt;/li&gt;
+  &lt;li&gt;Bekerja Dengan Header &amp;amp; Footer Dan Menyisipkan Simbol Dan Nomor Halaman&lt;/li&gt;
+  &lt;li&gt;Membuat Header Dan Footer&lt;/li&gt;
+  &lt;li&gt;Menghapus Header Dan Footer&lt;/li&gt;
+  &lt;li&gt;Menyisipkan Simbol&lt;/li&gt;
+  &lt;li&gt;Menyisipkan Nomor Halaman&lt;/li&gt;
+  &lt;li&gt;Mencetak Dokumen Dengan Format Tertentu&lt;/li&gt;
+  &lt;li&gt;Membuat Dan Menghapus Tabel, Konversi Teks Ke Tabel Dan Tabel Ke Teks&lt;/li&gt;
+  &lt;li&gt;Membuat Tabel&lt;/li&gt;
+  &lt;li&gt;Menghapus Tabel&lt;/li&gt;
+  &lt;li&gt;Mengkonversi Table Ke Teks&lt;/li&gt;
+  &lt;li&gt;Mengkonversi Teks Ke Tabel&lt;/li&gt;
+  &lt;li&gt;Memanipulasi Tabel&lt;/li&gt;
+  &lt;li&gt;Mengatur Border Dan Shading Tabel&lt;/li&gt;
+  &lt;li&gt;Menyisipkan Baris Dan Kolom Pada Tabel&lt;/li&gt;
+  &lt;li&gt;Menghapus Baris Dan Kolom Tabel&lt;/li&gt;
+  &lt;li&gt;Mengatur Tinggi Baris Dan Lebar Kolom&lt;/li&gt;
+  &lt;li&gt;Menggabungkan Dan Memisahkan Baris Dan Kolom Tabe&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://api.whatsapp.com/send?phone=6289666445551&amp;amp;text=Hi%20Ilham%20%0aI%27m%20...%20%0afrom%20...%0ai%20need%20you%20to%20&amp;amp;source=&amp;amp;data=&quot;&gt;Dapatkan Modul Microsoft Office Word&lt;/a&gt;&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Kursus" /><category term="Microsoft Word" /><summary type="html">Kursus Private Microsoft Word Yogyakarta</summary></entry><entry><title type="html">Ucapan Selamat hari raya Idul Fitri 1440 H (2019)</title><link href="http://localhost:4000/blog/idul%20fitri/ucapan-idul-fitri-2019/" rel="alternate" type="text/html" title="Ucapan Selamat hari raya Idul Fitri 1440 H (2019)" /><published>2019-06-05T19:09:12+07:00</published><updated>2019-06-05T19:09:12+07:00</updated><id>http://localhost:4000/blog/idul%20fitri/ucapan-idul-fitri-2019</id><content type="html" xml:base="http://localhost:4000/blog/idul%20fitri/ucapan-idul-fitri-2019/">&lt;figure class=&quot;half &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/bungamasraya.png&quot; title=&quot;Ucapan Selamat hari raya Idul Fitri 1440 H (2019)&quot;&gt;
+        &lt;img src=&quot;/assets/images/bungamasraya.png&quot; alt=&quot;Ucapan Hari raya idul fitri 1440 H&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;/assets/images/bungamasraya-transport.gif&quot; title=&quot;Ucapan Selamat hari raya Idul Fitri 1440 H (2019)&quot;&gt;
+        &lt;img src=&quot;/assets/images/bungamasraya-transport.gif&quot; alt=&quot;Ucapan Hari raya idul fitri 1440 H&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Ucapan Hari Raya Idul Fitri 1440 H (2019)
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Bungamasraya" /><category term="Banner Vector" /><summary type="html">Ucapan Selamat hari raya Idul Fitri 1440 H (2019)</summary></entry><entry><title type="html">Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools</title><link href="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/" rel="alternate" type="text/html" title="Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools" /><published>2019-05-30T13:00:00+07:00</published><updated>2019-05-30T13:00:00+07:00</updated><id>http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman</id><content type="html" xml:base="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/">&lt;p&gt;Hi developers, kali ini saya bakalan sharing nama nama bayi yang terinspirasi dari bahasa pemrograman&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
