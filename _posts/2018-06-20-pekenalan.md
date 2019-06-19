@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Ilham Saputra Jati - Solve Problems with technology"
-date:   2018-01-12 11:16:18 +0700
+date:   2019-01-12 11:16:18 +0700
 excerpt: "Kesuksesan terbesar dalam hidup saya adalah ketika mampu menyelesaikan masalah orang lain dengan teknologi"
 categories:
     - blog
@@ -23,3 +23,10 @@ Saya sangat mencintai teknologi, kalau teknologi ini virus mungkin saya sudah hi
 
 
 Saat ini saya sedang mengembangkan aplikasi Mobile untuk mengatasi permasalahan kematian dan transplantasi organ tubuh
+
+###Kutipan Programmer
+sing a song, write code and we make the entire world sing along
+we are programmer, we have a great life and do great things,
+we drive where the world is chaning, and we are pround 
+to be programmers
+``#codeheroes``
