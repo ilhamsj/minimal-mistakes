@@ -3,6 +3,7 @@ layout: single
 title:  "Laravel tutorial 101"
 date:   2019-06-17 19:09:12 +0700
 excerpt: "Laravel tutorial 101"
+toc: true
 categories:
     - Laravel
 tags :
@@ -59,7 +60,7 @@ Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~
 1. ``php artisan make:seeder ModelNamesTableSeeder``
 1. Call factory in [DatabaseSeeder](database\seeds\DatabaseSeeder.php)
 ``$this->call(ModelNamesTableSeeder::class);``
-1. ``factory(ModelName::class, 5)->create();``
+1. ``w``
 1. ``php artisan db:seed``
 
 ## Blade Template

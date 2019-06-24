@@ -2,7 +2,7 @@
 layout: single
 title:  "Kursus Private Microsoft Word Yogyakarta"
 date:   2019-06-17 19:09:12 +0700
-excerpt: "Kursus Private Microsoft Word Yogyakarta"
+excerpt_separator: "<!--more-->"
 categories:
     - blog
     - kursus

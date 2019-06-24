@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-18T01:32:13+07:00</updated><id>http://localhost:4000/</id><title type="html">Blog Ilham Saputrajati</title><subtitle>Kenang Kenangan dari ilham untuk ilham dimasa depan</subtitle><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><entry><title type="html">Laravel tutorial 101</title><link href="http://localhost:4000/laravel/laravel-tutorial-101/" rel="alternate" type="text/html" title="Laravel tutorial 101" /><published>2019-06-17T19:09:12+07:00</published><updated>2019-06-17T19:09:12+07:00</updated><id>http://localhost:4000/laravel/laravel-tutorial-101</id><content type="html" xml:base="http://localhost:4000/laravel/laravel-tutorial-101/">&lt;figure class=&quot;third &quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-24T13:45:13+07:00</updated><id>http://localhost:4000/</id><title type="html">Ilham Saputra Jati</title><subtitle>Web developer yogyakarta, belajar programming untuk mempermudah pekerjaan manusia, website ini dibuat untuk ruang berbagi ilmu, pengalaman, cerita dan sebagai kenang kenangan dari ilham untuk orang orang tercinta dimasa depan</subtitle><author><name>Ilham Saputra Jati</name><email>ilhamsaputrajati@gmail.com</email></author><entry><title type="html">Laravel tutorial 101</title><link href="http://localhost:4000/laravel/laravel-tutorial-101/" rel="alternate" type="text/html" title="Laravel tutorial 101" /><published>2019-06-17T19:09:12+07:00</published><updated>2019-06-17T19:09:12+07:00</updated><id>http://localhost:4000/laravel/laravel-tutorial-101</id><content type="html" xml:base="http://localhost:4000/laravel/laravel-tutorial-101/">&lt;figure class=&quot;third &quot;&gt;
   
     
       &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg&quot; title=&quot;Laravel Logo SVG&quot;&gt;
@@ -63,7 +63,7 @@
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;php artisan make:seeder ModelNamesTableSeeder&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Call factory in &lt;a href=&quot;database\seeds\DatabaseSeeder.php&quot;&gt;DatabaseSeeder&lt;/a&gt;
 &lt;code class=&quot;highlighter-rouge&quot;&gt;$this-&amp;gt;call(ModelNamesTableSeeder::class);&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;factory(ModelName::class, 5)-&amp;gt;create();&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;w&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;php artisan db:seed&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -92,62 +92,7 @@
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$modelnames = ModelName::paginate(9);&lt;/code&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;image&quot;&gt;Image&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://picsum.photos/300/200&quot; alt=&quot;Image for testing&quot; title=&quot;Test&quot; /&gt;&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="web developer" /><summary type="html">Laravel tutorial 101</summary></entry><entry><title type="html">Jasa pembuatan website murah</title><link href="http://localhost:4000/blog/jasa-branding-usaha-online/" rel="alternate" type="text/html" title="Jasa pembuatan website murah" /><published>2019-06-17T19:09:12+07:00</published><updated>2019-06-17T19:09:12+07:00</updated><id>http://localhost:4000/blog/jasa-branding-usaha-online</id><content type="html" xml:base="http://localhost:4000/blog/jasa-branding-usaha-online/">&lt;!-- 
-
-
-
-&lt;figure class=&quot; &quot;&gt;
-  
-  
-    &lt;figcaption&gt;Silahkan di download &lt;strong&gt;Logo Universitas PGRI Yogyakarta&lt;/strong&gt;.
-&lt;/figcaption&gt;
-  
-&lt;/figure&gt; --&gt;
-
-&lt;h2 id=&quot;layanan-yang-kami-berikan-untuk-branding-usaha-viralonline&quot;&gt;Layanan yang kami berikan untuk Branding Usaha Viral/Online&lt;/h2&gt;
-&lt;h3 id=&quot;social-media-setup&quot;&gt;Social Media Setup&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Email&lt;/li&gt;
-  &lt;li&gt;Facebook pages&lt;/li&gt;
-  &lt;li&gt;Instagram&lt;/li&gt;
-  &lt;li&gt;Twitter&lt;/li&gt;
-  &lt;li&gt;Whatsapp business&lt;/li&gt;
-  &lt;li&gt;Google My business&lt;/li&gt;
-  &lt;li&gt;2 Pilihan Social Media Lainnya&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Logo&lt;/li&gt;
-  &lt;li&gt;Campaign&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;content&quot;&gt;Content&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Content/Hari&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;jasa-pembuatan-website&quot;&gt;Jasa Pembuatan Website&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Landing Page&lt;/li&gt;
-  &lt;li&gt;Landing Page + Blog&lt;/li&gt;
-  &lt;li&gt;E-Commerce (Jual Beli)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;jasa-seo--digital-marketing&quot;&gt;Jasa SEO / Digital Marketing&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Facebook Ads&lt;/li&gt;
-  &lt;li&gt;Instagram Ads&lt;/li&gt;
-  &lt;li&gt;Google Adwords&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;admin&quot;&gt;Admin&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Admin Freelance&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Jika anda tertarik menggunakan jasa kami silahkan hubungi melalui
-&lt;a href=&quot;https://api.whatsapp.com/send?phone=6289666445551&quot;&gt;Whatsapp&lt;/a&gt;&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="website" /><summary type="html">Jasa Pembuatan Website Murah</summary></entry><entry><title type="html">Kursus Private Microsoft Word Yogyakarta</title><link href="http://localhost:4000/blog/kursus/training/kursus-microsoft-office-word/" rel="alternate" type="text/html" title="Kursus Private Microsoft Word Yogyakarta" /><published>2019-06-17T19:09:12+07:00</published><updated>2019-06-17T19:09:12+07:00</updated><id>http://localhost:4000/blog/kursus/training/kursus-microsoft-office-word</id><content type="html" xml:base="http://localhost:4000/blog/kursus/training/kursus-microsoft-office-word/">&lt;!-- 
+&lt;p&gt;&lt;img src=&quot;https://picsum.photos/300/200&quot; alt=&quot;Image for testing&quot; title=&quot;Test&quot; /&gt;&lt;/p&gt;</content><author><name>Ilham Saputra Jati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="web developer" /><summary type="html">Laravel tutorial 101</summary></entry><entry><title type="html">Kursus Private Microsoft Word Yogyakarta</title><link href="http://localhost:4000/blog/kursus/training/kursus-microsoft-office-word/" rel="alternate" type="text/html" title="Kursus Private Microsoft Word Yogyakarta" /><published>2019-06-17T19:09:12+07:00</published><updated>2019-06-17T19:09:12+07:00</updated><id>http://localhost:4000/blog/kursus/training/kursus-microsoft-office-word</id><content type="html" xml:base="http://localhost:4000/blog/kursus/training/kursus-microsoft-office-word/">&lt;!-- 
 
 
 
@@ -204,7 +149,62 @@
   &lt;li&gt;Menggabungkan Dan Memisahkan Baris Dan Kolom Tabe&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://api.whatsapp.com/send?phone=6289666445551&amp;amp;text=Hi%20Ilham%20%0aI%27m%20...%20%0afrom%20...%0ai%20need%20you%20to%20&amp;amp;source=&amp;amp;data=&quot;&gt;Dapatkan Modul Microsoft Office Word&lt;/a&gt;&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Kursus" /><category term="Microsoft Word" /><summary type="html">Kursus Private Microsoft Word Yogyakarta</summary></entry><entry><title type="html">Ucapan Selamat hari raya Idul Fitri 1440 H (2019)</title><link href="http://localhost:4000/blog/idul%20fitri/ucapan-idul-fitri-2019/" rel="alternate" type="text/html" title="Ucapan Selamat hari raya Idul Fitri 1440 H (2019)" /><published>2019-06-05T19:09:12+07:00</published><updated>2019-06-05T19:09:12+07:00</updated><id>http://localhost:4000/blog/idul%20fitri/ucapan-idul-fitri-2019</id><content type="html" xml:base="http://localhost:4000/blog/idul%20fitri/ucapan-idul-fitri-2019/">&lt;figure class=&quot;half &quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://api.whatsapp.com/send?phone=6289666445551&amp;amp;text=Hi%20Ilham%20%0aI%27m%20...%20%0afrom%20...%0ai%20need%20you%20to%20&amp;amp;source=&amp;amp;data=&quot;&gt;Dapatkan Modul Microsoft Office Word&lt;/a&gt;&lt;/p&gt;</content><author><name>Ilham Saputra Jati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Kursus" /><category term="Microsoft Word" /><summary type="html">Materi Kursus/Training Microsoft Office Word Membuat Dan Menyimpan Dokumen Kerja Menjalankan Microsoft Word Pengenalan Interface/Tampilan Word Membuat Dokumen Baru Dalam Microsoft Word Menyimpan Dokumen Kerja Menutup Dokumen Kerja Mengedit Dokumen Kerja Dan Memformat Huruf Membuka Dokumen Kerja Yang Telah Di Simpan Memilih Teks Yang Akan Di Format/Edit Memindahkan Dan Menduplikasi Teks Memformat Huruf/Font Mengatur Perataan Paragraf Membuat Numbering Membuat Bullet Mengatur Jarak Baris/Spasi Baris Mengatur Jarak Paragraf, Orientasi Halaman Dan Menyisipkan tanggal Mengatur Jarak Antar Paragraf. Mengatur Jarak Indentasi (Jarak Teks Terhadap Margin). Mengatur Margin, Ukuran Dan Orientasi Halaman/ Page Size Menambahkan tanggal dalam dokumen Mencari Teks, Halaman, Menggabungkan Dokumen Dan Menggunakan Format Kolom. Mencari (Find) Dan Mengganti (Replace) Teks Berpindah Ke Halaman Tertentu Menggabungkan Dua Dokumen Atau Lebih Bekerja Dengan Header &amp;amp; Footer Dan Menyisipkan Simbol Dan Nomor Halaman Membuat Header Dan Footer Menghapus Header Dan Footer Menyisipkan Simbol Menyisipkan Nomor Halaman Mencetak Dokumen Dengan Format Tertentu Membuat Dan Menghapus Tabel, Konversi Teks Ke Tabel Dan Tabel Ke Teks Membuat Tabel Menghapus Tabel Mengkonversi Table Ke Teks Mengkonversi Teks Ke Tabel Memanipulasi Tabel Mengatur Border Dan Shading Tabel Menyisipkan Baris Dan Kolom Pada Tabel Menghapus Baris Dan Kolom Tabel Mengatur Tinggi Baris Dan Lebar Kolom Menggabungkan Dan Memisahkan Baris Dan Kolom Tabe Dapatkan Modul Microsoft Office Word</summary></entry><entry><title type="html">Jasa pembuatan website murah</title><link href="http://localhost:4000/blog/jasa-branding-usaha-online/" rel="alternate" type="text/html" title="Jasa pembuatan website murah" /><published>2019-06-17T19:09:12+07:00</published><updated>2019-06-17T19:09:12+07:00</updated><id>http://localhost:4000/blog/jasa-branding-usaha-online</id><content type="html" xml:base="http://localhost:4000/blog/jasa-branding-usaha-online/">&lt;!-- 
+
+
+
+&lt;figure class=&quot; &quot;&gt;
+  
+  
+    &lt;figcaption&gt;Silahkan di download &lt;strong&gt;Logo Universitas PGRI Yogyakarta&lt;/strong&gt;.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt; --&gt;
+
+&lt;h2 id=&quot;layanan-yang-kami-berikan-untuk-branding-usaha-viralonline&quot;&gt;Layanan yang kami berikan untuk Branding Usaha Viral/Online&lt;/h2&gt;
+&lt;h3 id=&quot;social-media-setup&quot;&gt;Social Media Setup&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Email&lt;/li&gt;
+  &lt;li&gt;Facebook pages&lt;/li&gt;
+  &lt;li&gt;Instagram&lt;/li&gt;
+  &lt;li&gt;Twitter&lt;/li&gt;
+  &lt;li&gt;Whatsapp business&lt;/li&gt;
+  &lt;li&gt;Google My business&lt;/li&gt;
+  &lt;li&gt;2 Pilihan Social Media Lainnya&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Logo&lt;/li&gt;
+  &lt;li&gt;Campaign&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;content&quot;&gt;Content&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Content/Hari&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;jasa-pembuatan-website&quot;&gt;Jasa Pembuatan Website&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Landing Page&lt;/li&gt;
+  &lt;li&gt;Landing Page + Blog&lt;/li&gt;
+  &lt;li&gt;E-Commerce (Jual Beli)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;jasa-seo--digital-marketing&quot;&gt;Jasa SEO / Digital Marketing&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Facebook Ads&lt;/li&gt;
+  &lt;li&gt;Instagram Ads&lt;/li&gt;
+  &lt;li&gt;Google Adwords&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;admin&quot;&gt;Admin&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Admin Freelance&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Jika anda tertarik menggunakan jasa kami silahkan hubungi melalui
+&lt;a href=&quot;https://api.whatsapp.com/send?phone=6289666445551&quot;&gt;Whatsapp&lt;/a&gt;&lt;/p&gt;</content><author><name>Ilham Saputra Jati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="website" /><summary type="html">Layanan yang kami berikan untuk Branding Usaha Viral/Online Social Media Setup Email Facebook pages Instagram Twitter Whatsapp business Google My business 2 Pilihan Social Media Lainnya Design Logo Campaign Content Content/Hari Jasa Pembuatan Website Landing Page Landing Page + Blog E-Commerce (Jual Beli) Jasa SEO / Digital Marketing Facebook Ads Instagram Ads Google Adwords Admin Admin Freelance Jika anda tertarik menggunakan jasa kami silahkan hubungi melalui Whatsapp</summary></entry><entry><title type="html">Ucapan Selamat hari raya Idul Fitri 1440 H (2019)</title><link href="http://localhost:4000/blog/idul%20fitri/ucapan-idul-fitri-2019/" rel="alternate" type="text/html" title="Ucapan Selamat hari raya Idul Fitri 1440 H (2019)" /><published>2019-06-05T19:09:12+07:00</published><updated>2019-06-05T19:09:12+07:00</updated><id>http://localhost:4000/blog/idul%20fitri/ucapan-idul-fitri-2019</id><content type="html" xml:base="http://localhost:4000/blog/idul%20fitri/ucapan-idul-fitri-2019/">&lt;figure class=&quot;half &quot;&gt;
   
     
       &lt;a href=&quot;/assets/images/bungamasraya.png&quot; title=&quot;Ucapan Selamat hari raya Idul Fitri 1440 H (2019)&quot;&gt;
@@ -222,7 +222,7 @@
     &lt;figcaption&gt;Ucapan Hari Raya Idul Fitri 1440 H (2019)
 &lt;/figcaption&gt;
   
-&lt;/figure&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Bungamasraya" /><category term="Banner Vector" /><summary type="html">Ucapan Selamat hari raya Idul Fitri 1440 H (2019)</summary></entry><entry><title type="html">Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools</title><link href="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/" rel="alternate" type="text/html" title="Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools" /><published>2019-05-30T13:00:00+07:00</published><updated>2019-05-30T13:00:00+07:00</updated><id>http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman</id><content type="html" xml:base="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/">&lt;p&gt;Hi developers, kali ini saya bakalan sharing nama nama bayi yang terinspirasi dari bahasa pemrograman&lt;/p&gt;
+&lt;/figure&gt;</content><author><name>Ilham Saputra Jati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Bungamasraya" /><category term="Banner Vector" /><summary type="html">Ucapan Hari Raya Idul Fitri 1440 H (2019)</summary></entry><entry><title type="html">Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools</title><link href="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/" rel="alternate" type="text/html" title="Kumpulan nama nama bayi terinspirasi dari bahasa pemrograman, framework dan tools" /><published>2019-05-30T13:00:00+07:00</published><updated>2019-05-30T13:00:00+07:00</updated><id>http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman</id><content type="html" xml:base="http://localhost:4000/blog/bank-nama-bayi-terinspirasi-bahasa-pemrograman/">&lt;p&gt;Hi developers, kali ini saya bakalan sharing nama nama bayi yang terinspirasi dari bahasa pemrograman&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -281,7 +281,7 @@
       &lt;td&gt;Jackie&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Tutorial" /><summary type="html">Kamu programmer? developers? berikut ini 20 nama nama bayi yang terinspirasi dari bahasa pemrograman</summary></entry><entry><title type="html">Cara menggunakan smartphone sebagai clicker</title><link href="http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/" rel="alternate" type="text/html" title="Cara menggunakan smartphone sebagai clicker" /><published>2019-05-29T11:16:18+07:00</published><updated>2019-05-29T11:16:18+07:00</updated><id>http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker</id><content type="html" xml:base="http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/">&lt;p&gt;Hallo semuanya, 
+&lt;/table&gt;</content><author><name>Ilham Saputra Jati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Tutorial" /><summary type="html">Kamu programmer? developers? berikut ini 20 nama nama bayi yang terinspirasi dari bahasa pemrograman</summary></entry><entry><title type="html">Cara menggunakan smartphone sebagai clicker</title><link href="http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/" rel="alternate" type="text/html" title="Cara menggunakan smartphone sebagai clicker" /><published>2019-05-29T11:16:18+07:00</published><updated>2019-05-29T11:16:18+07:00</updated><id>http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker</id><content type="html" xml:base="http://localhost:4000/blog/menggunakan-smartphone-sebagai-clicker/">&lt;p&gt;Hallo semuanya, 
 teman teman pasti pernah melakukan presentasi, ketika presentasi untuk mengendalikan slide after/previous slide biasanya menggunakan keyboard.
 akan tetapi ketika kita presentasi dalam acara acara penting seperti seminar, workshop, presentasi pitch desk ke investor tidak mungkin menggunakan keyboard karena sangat tidak terlihat professional.&lt;/p&gt;
 
@@ -317,7 +317,7 @@ buat temen temen yang belum kenal dengan pwa bisa kenalan &lt;a href=&quot;#&quo
   &lt;li&gt;Klik zoom untuk Menampilkan notes dari slide&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Masih belum jelas atau mendapatkan masalah ? tulis di kolom komentar ya&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Tutorial" /><summary type="html">Kali ini saya bakalan sharing gimana caranya menggunakan smartphone sebagai clicker</summary></entry><entry><title type="html">Ilham Saputra Jati - Solve Problems with technology</title><link href="http://localhost:4000/blog/pekenalan/" rel="alternate" type="text/html" title="Ilham Saputra Jati - Solve Problems with technology" /><published>2018-01-12T11:16:18+07:00</published><updated>2018-01-12T11:16:18+07:00</updated><id>http://localhost:4000/blog/pekenalan</id><content type="html" xml:base="http://localhost:4000/blog/pekenalan/">&lt;p&gt;Hi semuanya, perkenalkan nama saya Ilham Saputrajati biasa di panggil ilham.&lt;br /&gt;
+&lt;p&gt;Masih belum jelas atau mendapatkan masalah ? tulis di kolom komentar ya&lt;/p&gt;</content><author><name>Ilham Saputra Jati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Tutorial" /><summary type="html">Kali ini saya bakalan sharing gimana caranya menggunakan smartphone sebagai clicker</summary></entry><entry><title type="html">Ilham Saputra Jati - Solve Problems with technology</title><link href="http://localhost:4000/blog/pekenalan/" rel="alternate" type="text/html" title="Ilham Saputra Jati - Solve Problems with technology" /><published>2019-01-12T11:16:18+07:00</published><updated>2019-01-12T11:16:18+07:00</updated><id>http://localhost:4000/blog/pekenalan</id><content type="html" xml:base="http://localhost:4000/blog/pekenalan/">&lt;p&gt;Hi semuanya, perkenalkan nama saya Ilham Saputrajati biasa di panggil ilham.&lt;br /&gt;
 Hobi saya&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Programming&lt;/li&gt;
@@ -333,7 +333,14 @@ Cita-cita saya menjadi orang yang bermanfaat orang lain sesuai dengan bidang stu
   &lt;p&gt;Kesuksesan terbesar adalah ketika saya bermanfaat untuk orang lain, menyelesaikan masalah yang mereka alami dengan teknologi.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Saat ini saya sedang mengembangkan aplikasi Mobile untuk mengatasi permasalahan kematian dan transplantasi organ tubuh&lt;/p&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="perkenalan" /><summary type="html">Kesuksesan terbesar dalam hidup saya adalah ketika mampu menyelesaikan masalah orang lain dengan teknologi</summary></entry><entry><title type="html">Logo Universitas PGRI Yogyakarta</title><link href="http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/" rel="alternate" type="text/html" title="Logo Universitas PGRI Yogyakarta" /><published>2017-06-25T19:09:12+07:00</published><updated>2017-06-25T19:09:12+07:00</updated><id>http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta</id><content type="html" xml:base="http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/">&lt;figure class=&quot;third &quot;&gt;
+&lt;p&gt;Saat ini saya sedang mengembangkan aplikasi Mobile untuk mengatasi permasalahan kematian dan transplantasi organ tubuh&lt;/p&gt;
+
+&lt;p&gt;###Kutipan Programmer
+sing a song, write code and we make the entire world sing along
+we are programmer, we have a great life and do great things,
+we drive where the world is chaning, and we are pround 
+to be programmers
+&lt;code class=&quot;highlighter-rouge&quot;&gt;#codeheroes&lt;/code&gt;&lt;/p&gt;</content><author><name>Ilham Saputra Jati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="perkenalan" /><summary type="html">Kesuksesan terbesar dalam hidup saya adalah ketika mampu menyelesaikan masalah orang lain dengan teknologi</summary></entry><entry><title type="html">Logo Universitas PGRI Yogyakarta</title><link href="http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/" rel="alternate" type="text/html" title="Logo Universitas PGRI Yogyakarta" /><published>2017-06-25T19:09:12+07:00</published><updated>2017-06-25T19:09:12+07:00</updated><id>http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta</id><content type="html" xml:base="http://localhost:4000/blog/logo/logo-universitas-pgri-yogyakarta/">&lt;figure class=&quot;third &quot;&gt;
   
     
       &lt;a href=&quot;/assets/images/upy-yellow.jpg&quot; title=&quot;Logo UPY warna kuning&quot;&gt;
@@ -357,4 +364,4 @@ Cita-cita saya menjadi orang yang bermanfaat orang lain sesuai dengan bidang stu
     &lt;figcaption&gt;Silahkan di download &lt;strong&gt;Logo Universitas PGRI Yogyakarta&lt;/strong&gt;.
 &lt;/figcaption&gt;
   
-&lt;/figure&gt;</content><author><name>Ilham Saputrajati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Universitas PGRI Yogyakarta" /><category term="Logo" /><summary type="html">Logo Universitas PGRI Yogyakarta</summary></entry></feed>
+&lt;/figure&gt;</content><author><name>Ilham Saputra Jati</name><email>ilhamsaputrajati@gmail.com</email></author><category term="Universitas PGRI Yogyakarta" /><category term="Logo" /><summary type="html">Logo Universitas PGRI Yogyakarta</summary></entry></feed>

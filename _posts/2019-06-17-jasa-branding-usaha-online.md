@@ -2,7 +2,7 @@
 layout: single
 title:  "Jasa pembuatan website murah"
 date:   2019-06-17 19:09:12 +0700
-excerpt: "Jasa Pembuatan Website Murah"
+excerpt_separator: "<!--more-->"
 categories:
     - blog
 tags :

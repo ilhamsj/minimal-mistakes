@@ -24,18 +24,18 @@ var store = [{
         "tags": ["Bungamasraya","Banner Vector"],
         "url": "http://localhost:4000/blog/idul%20fitri/ucapan-idul-fitri-2019/",
         "teaser":null},{
-        "title": "Kursus Private Microsoft Word Yogyakarta",
-        "excerpt":"Materi Kursus/Training Microsoft Office Word Membuat Dan Menyimpan Dokumen Kerja Menjalankan Microsoft Word Pengenalan Interface/Tampilan Word Membuat Dokumen Baru Dalam Microsoft Word Menyimpan Dokumen Kerja Menutup Dokumen Kerja Mengedit Dokumen Kerja Dan Memformat Huruf Membuka Dokumen Kerja Yang Telah Di Simpan Memilih Teks Yang Akan Di Format/Edit Memindahkan Dan Menduplikasi...","categories": ["blog","kursus","training"],
-        "tags": ["Kursus","Microsoft Word"],
-        "url": "http://localhost:4000/blog/kursus/training/kursus-microsoft-office-word/",
-        "teaser":null},{
         "title": "Jasa pembuatan website murah",
         "excerpt":"Layanan yang kami berikan untuk Branding Usaha Viral/Online Social Media Setup Email Facebook pages Instagram Twitter Whatsapp business Google My business 2 Pilihan Social Media LainnyaDesign Logo CampaignContent Content/HariJasa Pembuatan Website Landing Page Landing Page + Blog E-Commerce (Jual Beli)Jasa SEO / Digital Marketing Facebook Ads Instagram Ads Google AdwordsAdmin...","categories": ["blog"],
         "tags": ["website"],
         "url": "http://localhost:4000/blog/jasa-branding-usaha-online/",
         "teaser":null},{
+        "title": "Kursus Private Microsoft Word Yogyakarta",
+        "excerpt":"Materi Kursus/Training Microsoft Office Word Membuat Dan Menyimpan Dokumen Kerja Menjalankan Microsoft Word Pengenalan Interface/Tampilan Word Membuat Dokumen Baru Dalam Microsoft Word Menyimpan Dokumen Kerja Menutup Dokumen Kerja Mengedit Dokumen Kerja Dan Memformat Huruf Membuka Dokumen Kerja Yang Telah Di Simpan Memilih Teks Yang Akan Di Format/Edit Memindahkan Dan Menduplikasi...","categories": ["blog","kursus","training"],
+        "tags": ["Kursus","Microsoft Word"],
+        "url": "http://localhost:4000/blog/kursus/training/kursus-microsoft-office-word/",
+        "teaser":null},{
         "title": "Laravel tutorial 101",
         "excerpt":"Laravel Pack. Hi semuanya kali ini saya sharing step belajar laravel dari installation - ~ Table of Contents Installation Env Database Migration Model View Controller ORM Deploy Laravel to Heroku Excerpt Pagination Image For TestingInstallation laravel new YourAppName CLI php artisan serve Env Database Migration php artisan make:model ModelName -m...","categories": ["Laravel"],
         "tags": ["web developer"],
         "url": "http://localhost:4000/laravel/laravel-tutorial-101/",
-        "teaser":null}]
+        "teaser":null},]
