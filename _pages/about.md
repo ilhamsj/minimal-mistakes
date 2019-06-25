@@ -19,7 +19,9 @@ IPA
 [Universitas PGRI Yogyakarta](http://upy.ac.id/)  
 [Teknik Informatika](http://ft.upy.ac.id/)  
 2015 - September 2019  
-IPK : [3.70](http://transkrip.upy.ac.id/)
+IPK : [3.70](http://transkrip.upy.ac.id/)  
+Skripsi : [Aplikasi Layanan Perawatan Jenazah Online Berbasis Progressive Web Application](kremasiapp.firebaseapp.com)
+[Link Demo](kremasiapp.firebaseapp.com)
 
 ## Experience
 - Facilitator at [Google Developers KEJAR]()    
