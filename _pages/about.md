@@ -11,7 +11,7 @@ menyelesaikan masalah yang mereka hadapi dengan teknologi.
 
 ## Education
 ### SMA 
-[SMA N 1 PANGGANG](link)  
+SMA N 1 PANGGANG]  
 IPA  
 2012 - 2014 
 
@@ -19,7 +19,7 @@ IPA
 [Universitas PGRI Yogyakarta](http://upy.ac.id/)  
 [Teknik Informatika](http://ft.upy.ac.id/)  
 2015 - September 2019  
-IPK : [3.66](http://transkrip.upy.ac.id/)
+IPK : [3.70](http://transkrip.upy.ac.id/)
 
 ## Experience
 - Facilitator at [Google Developers KEJAR]()    
@@ -37,7 +37,7 @@ Digital marketing, Search Engine Optimization, Adobe Ilustrator, Premiere Pro, B
 
 ## Personality Test
 - INT-J  
-[Details](link)
+[Details](https://www.16personalities.com/profiles/c7281c7f1d5f5)
 
 ## Language
 - Indonesia
