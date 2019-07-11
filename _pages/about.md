@@ -27,6 +27,11 @@ Skripsi : [Aplikasi Layanan Perawatan Jenazah Online Berbasis Progressive Web Ap
 - Facilitator at [Google Developers KEJAR]()    
 2018 - Dec, 2018
 
+## Project
+- Sistem pengajuan surat tugas 
+- Aplikasi jadwal kuliah (Laravel, Bootstrap)
+- Company profile Saget Education
+
 ## Ability
 ### Web Development
 HTML, CSS, Javascript, PHP, mySql, Laravel, Wordpress, Progressive Web Apps, Firebase, Mapbox  
